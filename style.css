@@ -7,7 +7,7 @@
 }
 
 body {
-    background: url(../images/BG.png) no-repeat center center fixed;
+    background: url(/Assets/images/BG.png) no-repeat center center fixed;
     background-size: cover;
     font-family: 'Merriweather', serif;
 }
